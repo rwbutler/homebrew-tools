@@ -11,7 +11,7 @@ Taps for installing tools using [Homebrew](https://brew.sh/).
 ![IPA Uploader](https://github.com/rwbutler/IPAUploader/raw/master/docs/images/ipa-uploader-banner.png)
 
 
-```
+```bash
 brew tap rwbutler/tools
 brew install ipa-uploader
 ```
@@ -21,7 +21,7 @@ brew install ipa-uploader
 
 ![Palette for TypographyKit](https://raw.githubusercontent.com/rwbutler/TypographyKitPalette/master/docs/images/typography-kit-palette-banner.png)
 
-```
+```bash
 brew tap rwbutler/tools
 brew install palette
 ```
