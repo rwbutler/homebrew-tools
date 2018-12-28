@@ -16,6 +16,12 @@ brew tap rwbutler/tools
 brew install ipa-uploader
 ```
 
+Or as a single line:
+
+```
+brew install rwbutler/tools/ipa-uploader
+```
+
 \
 \
 
@@ -24,6 +30,12 @@ brew install ipa-uploader
 ```bash
 brew tap rwbutler/tools
 brew install palette
+```
+
+Or as a single line:
+
+```
+brew install rwbutler/tools/palette
 ```
 
 ## Additional Software
