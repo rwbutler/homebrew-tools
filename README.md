@@ -8,31 +8,31 @@ Taps for installing tools using [Homebrew](https://brew.sh/).
 
 # Usage
 
-![IPA Uploader](https://github.com/rwbutler/IPAUploader/raw/master/docs/images/ipa-uploader-banner.png)
-
+Make all tools available for installation via Homebrew:
 
 ```bash
 brew tap rwbutler/tools
-brew install ipa-uploader
 ```
 
-Or as a single line:
+Then install tools using the shortform `install` command e.g.
+
+```bash
+brew install palette
+```
+
+# Installation
+
+[![IPA Uploader](https://github.com/rwbutler/IPAUploader/raw/master/docs/images/ipa-uploader-banner.png)](https://github.com/rwbutler/IPAUploader)
+
+Uploads your apps to TestFlight & App Store.
 
 ```
 brew install rwbutler/tools/ipa-uploader
 ```
 
-\
-\
+[![Palette for TypographyKit](https://raw.githubusercontent.com/rwbutler/TypographyKitPalette/master/docs/images/typography-kit-palette-banner.png)](https://github.com/rwbutler/TypographyKitPalette)
 
-![Palette for TypographyKit](https://raw.githubusercontent.com/rwbutler/TypographyKitPalette/master/docs/images/typography-kit-palette-banner.png)
-
-```bash
-brew tap rwbutler/tools
-brew install palette
-```
-
-Or as a single line:
+Makes your [TypographyKit](https://github.com/rwbutler/TypographyKit) colour palette available for use in Xcode's interface builder.
 
 ```
 brew install rwbutler/tools/palette
