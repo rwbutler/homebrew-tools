@@ -1,10 +1,10 @@
-# Homebrew Tools
+![Homebrew Tools](https://github.com/rwbutler/homebrew-tools/raw/master/docs/images/homebrew-tools-banner.png)
 
 [![License](https://img.shields.io/cocoapods/l/TypographyKit.svg?style=flat)](http://cocoapods.org/pods/TypographyKit)
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)
 [![Twitter](https://img.shields.io/badge/twitter-@TypographyKit-blue.svg?style=flat)](https://twitter.com/TypographyKit)
 
-Taps for installing tools using [Homebrew](https://brew.sh/).
+Taps for installing tools using [Homebrew](https://brew.sh/). For more information on creating Homebrew taps see the [quickstart guide](https://github.com/rwbutler/homebrew-tools/blob/master/docs/presentations/homebrew-taps-quickstart-guide.pdf).
 
 # Usage
 
@@ -24,7 +24,7 @@ brew install palette
 
 [![IPA Uploader](https://github.com/rwbutler/IPAUploader/raw/master/docs/images/ipa-uploader-banner.png)](https://github.com/rwbutler/IPAUploader)
 
-Uploads your apps to TestFlight & App Store.
+Uploads your apps to TestFlight & App Store. [[GitHub]](https://github.com/rwbutler/IPAUploader/)
 
 ```
 brew install rwbutler/tools/ipa-uploader
@@ -32,7 +32,7 @@ brew install rwbutler/tools/ipa-uploader
 
 [![Palette for TypographyKit](https://raw.githubusercontent.com/rwbutler/TypographyKitPalette/master/docs/images/typography-kit-palette-banner.png)](https://github.com/rwbutler/TypographyKitPalette)
 
-Makes your [TypographyKit](https://github.com/rwbutler/TypographyKit) colour palette available for use in Xcode's interface builder.
+Makes your [TypographyKit](https://github.com/rwbutler/TypographyKit) colour palette available for use in Xcode's interface builder. [[GitHub]](https://github.com/rwbutler/TypographyKitPalette)
 
 ```
 brew install rwbutler/tools/palette
