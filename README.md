@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/cocoapods/l/TypographyKit.svg?style=flat)](http://cocoapods.org/pods/TypographyKit)
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)
 [![Twitter](https://img.shields.io/badge/twitter-@TypographyKit-blue.svg?style=flat)](https://twitter.com/TypographyKit)
+[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 
 Taps for installing tools using [Homebrew](https://brew.sh/). For more information on creating Homebrew taps see the [quickstart guide](https://github.com/rwbutler/homebrew-tools/blob/master/docs/presentations/homebrew-taps-quickstart-guide.pdf).
 
