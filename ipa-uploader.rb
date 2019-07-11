@@ -1,9 +1,9 @@
 class IpaUploader < Formula
   desc "Uploads your apps to TestFlight & App Store."
   homepage "https://github.com/rwbutler/IPAUploader"
-  version "0.0.2"
+  version "1.0.0"
   url "https://github.com/rwbutler/IPAUploader/releases/download/#{version}/ipa-uploader"
-  sha256 "16e4c876d0b91aaef255dece43b46ad7626f1bb4862de83ec32ad21e2bf6d444"
+  sha256 "be5e5ab44600cf712efef10a47477f4bfc240c166e8af4b662d7052194fdfe80"
 def install
     bin.install "ipa-uploader"
   end
