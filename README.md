@@ -39,6 +39,15 @@ Makes your [TypographyKit](https://github.com/rwbutler/TypographyKit) colour pal
 brew install rwbutler/tools/palette
 ```
 
+# [Clear Derived Data](https://github.com/rwbutler/ClearDerivedData/)
+
+Simple utility to quickly clear your DerivedData directory by typing `cdd` from the Terminal.
+
+
+```
+brew install rwbutler/tools/cdd
+```
+
 ## Author
 
 [Ross Butler](https://github.com/rwbutler)
