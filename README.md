@@ -23,6 +23,31 @@ brew install palette
 
 # Installation
 
+## [Clear Derived Data](https://github.com/rwbutler/ClearDerivedData/)
+
+Simple utility to quickly clear your DerivedData directory by typing `cdd` from the Terminal.
+
+If you have already tapped the repository as described in [Usage](#Usage) then use the following command to install:
+
+```
+brew install cdd
+```
+
+Otherwise, if the repo is untapped then use the following command: 
+
+```
+brew install rwbutler/tools/cdd
+```
+
+[![Config Validator](https://raw.githubusercontent.com/rwbutler/ConfigValidator/master/docs/images/config-validator-banner.png)](https://github.com/rwbutler/ConfigValidator)
+
+Config Validator validates & uploads your configuration files and cache clears your CDN as part of your CI process. [[GitHub]](https://github.com/rwbutler/ConfigValidator/)
+
+
+```
+brew install rwbutler/tools/config-validator
+```
+
 [![IPA Uploader](https://github.com/rwbutler/IPAUploader/raw/master/docs/images/ipa-uploader-banner.png)](https://github.com/rwbutler/IPAUploader)
 
 Uploads your apps to TestFlight & App Store. [[GitHub]](https://github.com/rwbutler/IPAUploader/)
@@ -37,15 +62,6 @@ Makes your [TypographyKit](https://github.com/rwbutler/TypographyKit) colour pal
 
 ```
 brew install rwbutler/tools/palette
-```
-
-# [Clear Derived Data](https://github.com/rwbutler/ClearDerivedData/)
-
-Simple utility to quickly clear your DerivedData directory by typing `cdd` from the Terminal.
-
-
-```
-brew install rwbutler/tools/cdd
 ```
 
 ## Author
