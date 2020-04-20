@@ -1,7 +1,7 @@
 class ConfigValidator < Formula
   desc "Config Validator validates & uploads your configuration files and cache clears your CDN as part of your CI process."
   homepage "https://github.com/rwbutler/ConfigValidator"
-  version "1.1.0"
+  version "1.1.1"
   url "https://github.com/rwbutler/ConfigValidator.git",
   :tag => "#{version}"
   head "https://github.com/rwbutler/ConfigValidator.git"
