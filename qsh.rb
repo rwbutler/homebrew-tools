@@ -1,9 +1,9 @@
 class Qsh < Formula
   desc "Interactive quiz shell for macOS Terminal."
   homepage "https://github.com/rwbutler/QSH"
-  version "0.0.1"
+  version "0.0.2"
   url "https://github.com/rwbutler/homebrew-tools/raw/master/qsh"
-  sha256 "92b3626105dae80106419d209e53fffa2714d051b40683dd4666d03b2e4aa835"
+  sha256 "de463bb5e2e6039edc135e3995c7e6a94207f64521bfa0fae75189c9da816ec1"
 def install
     bin.install "qsh"
   end
