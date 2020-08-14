@@ -1,4 +1,4 @@
-class QSH < Formula
+class Qsh < Formula
   desc "Interactive quiz shell for macOS Terminal."
   homepage "https://github.com/rwbutler/QSH"
   version "0.0.1"
