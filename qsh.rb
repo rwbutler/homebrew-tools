@@ -3,7 +3,7 @@ class Qsh < Formula
   homepage "https://github.com/rwbutler/QSH"
   version "0.0.5"
   url "https://github.com/rwbutler/homebrew-tools/raw/master/qsh"
-  sha256 "42d52572bd8ce12d7855ef2ce99551b8bc04e8fa61dfb402dfb3dcb00d7dc304"
+  sha256 "ff9c78d75d6efcbab61ecd7f721557b73c332839d739417fde8275be6c822f8f"
 def install
     bin.install "qsh"
   end
